@@ -1,10 +1,10 @@
 package Q3;
 
-public class Point { //2 attributes of a point
+public class Point { // 2 attributes of a point
     private double x;
     private double y;
 
-    public Point(double x, double y) { //Take the input from the user
+    public Point(double x, double y) {     // Take the input from the user
         this.x = x;
         this.y = y;
     }
